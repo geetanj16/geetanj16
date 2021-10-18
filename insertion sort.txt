@@ -1,0 +1,31 @@
+#include <stdio.h>
+void selectionSort(int arr[],int n){}
+void swap(int *xp,int *yp)
+{   int temp = *xp;
+    *xp = *yp;
+    *yp = temp;}
+    
+void printArray(int arr[],int size){
+    int u;
+    for(u=0;u<size;u++)
+    printf("%d ",arr[u]);
+}
+
+int main()
+{int a[100],n,i,j,position;
+scanf("%d",&n);
+for(i=0;i<n;i++)
+    scanf("%d",&a[i]);
+for(i=0;i<n-1;i++){
+    position=i;
+    for(j=i+1;j<n;j++){
+        if(a[position]>a[j])
+        position=j;
+    }
+if(position!=i)
+{
+    swap(&a[i],&a[position]);
+}}
+      printArray(a,n);
+
+    return 0;    }
