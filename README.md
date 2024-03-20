@@ -1,7 +1,7 @@
 ### Hi there 👋 I am Geetanj
 
 # 💫 About Me:
-🔭 I’m currently working on learning more about new frameworks and cloud concepts so that I am able o implement cloud concepts in my projects. <br>🌱 I’m currently learning front-end development and making projects.<br>
+🔭 I’m currently working on learning more about new frameworks and cloud concepts so that I am able to implement cloud concepts in my projects. <br>🌱 I’m currently learning front-end development and making projects.<br>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
