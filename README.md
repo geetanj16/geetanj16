@@ -31,12 +31,19 @@ I work on cloud infrastructure, Kubernetes, and DevOps automation. Currently bui
 
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-%23EE0000.svg?style=for-the-badge&logo=ansible&logoColor=white)
 
 **Monitoring & Observability**
 
 ![Datadog](https://img.shields.io/badge/Datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-%23E6522C.svg?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
+
+**Logging & Search**
+
+![Filebeat](https://img.shields.io/badge/Filebeat-%23005571.svg?style=for-the-badge&logo=elastic&logoColor=white)
+![Logstash](https://img.shields.io/badge/Logstash-%23005571.svg?style=for-the-badge&logo=elastic&logoColor=white)
+![Kibana](https://img.shields.io/badge/Kibana-%23005571.svg?style=for-the-badge&logo=elastic&logoColor=white)
 
 **Languages & Scripting**
 
